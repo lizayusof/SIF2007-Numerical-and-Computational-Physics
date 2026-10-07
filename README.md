@@ -1,4 +1,5 @@
-![SIF2007: Numerical and Computational Methods](SIF2007_GitHub_Banner.png)
+<img width="1280" height="640" alt="SIF2007_GitHub_Banner" src="https://github.com/user-attachments/assets/f633b90f-3cbc-40e4-a6dc-91edc9184348" />
+
 
 # SIF2007: Numerical and Computational Methods
 
