@@ -1,3 +1,5 @@
+![SIF2007: Numerical and Computational Methods](SIF2007_GitHub_Banner.png)
+
 # SIF2007: Numerical and Computational Methods
 
 **Department of Physics · Universiti Malaya**  
